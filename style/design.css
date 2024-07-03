@@ -1,0 +1,24 @@
+header{
+    background-image: url(../images/cover\ photo.jpg);
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sec-1{
+    font-size: larger;
+    color: tomato;
+    padding-left: 30px;
+}
+.sec-2{
+    font-size: larger;
+    color: salmon;
+    padding-left: 30px;
+    
+}
+.sec-3{
+    font-size: larger;
+    color: maroon;
+    padding-left: 30px;
+}
+
